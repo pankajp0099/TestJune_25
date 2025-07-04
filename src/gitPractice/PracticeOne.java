@@ -6,6 +6,7 @@ public class PracticeOne {
 
 		System.out.println("I am in Practice One on Branch A");
 		System.out.println("Git B Branch");
+		System.out.println("The Branch B Conflict changes");
 
 	}
 }
